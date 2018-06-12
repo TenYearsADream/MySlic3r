@@ -42,7 +42,7 @@ sub new {
     
     # initialize status bar
     $self->{statusbar} = Slic3r::GUI::ProgressStatusBar->new($self, -1);
-    $self->{statusbar}->SetStatusText("Version $Slic3r::VERSION - Remember to check for updates at http://slic3r.org/");
+    $self->{statusbar}->SetStatusText("");
     $self->SetStatusBar($self->{statusbar});
     
     $self->{loaded} = 1;
