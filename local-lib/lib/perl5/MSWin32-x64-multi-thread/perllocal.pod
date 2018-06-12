@@ -1,0 +1,704 @@
+=head2 Thu Jun  7 14:18:58 2018: C<Module> L<IO::CaptureOutput|IO::CaptureOutput>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.1104>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 14:19:07 2018: C<Module> L<Mock::Config|Mock::Config>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 14:19:56 2018: C<Module> L<Devel::CheckLib|Devel::CheckLib>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.13>
+
+=item *
+
+C<EXE_FILES: bin/use-devel-checklib>
+
+=back
+
+=head2 Thu Jun  7 14:21:51 2018: C<Module> L<Encode|Encode>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.98>
+
+=item *
+
+C<EXE_FILES: bin/enc2xs bin/encguess bin/piconv>
+
+=back
+
+=head2 Thu Jun  7 14:22:20 2018: C<Module> L<ExtUtils::CppGuess|ExtUtils::CppGuess>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 06:27:47 2018: C<Module> L<ExtUtils::MakeMaker|ExtUtils::MakeMaker>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 7.34>
+
+=item *
+
+C<EXE_FILES: bin/instmodsh>
+
+=back
+
+=head2 Thu Jun  7 06:28:14 2018: C<Module> L<ExtUtils::ParseXS|ExtUtils::ParseXS>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.35>
+
+=item *
+
+C<EXE_FILES: lib/ExtUtils/xsubpp>
+
+=back
+
+=head2 Thu Jun  7 06:28:37 2018: C<Module> L<Cwd|Cwd>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.74>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 06:28:51 2018: C<Module> L<Getopt::Long|Getopt::Long>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 06:29:03 2018: C<Module> L<IO::Stringy|IO::Stringy>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.111>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 06:30:19 2018: C<Module> L<Moo|Moo>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.003004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 06:30:40 2018: C<Module> L<List::Util|List::Util>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 06:30:56 2018: C<Module> L<Test::Harness|Test::Harness>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.42>
+
+=item *
+
+C<EXE_FILES: bin/prove>
+
+=back
+
+=head2 Thu Jun  7 06:32:34 2018: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.302136>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 06:33:00 2018: C<Module> L<Time::HiRes|Time::HiRes>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.9758>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 06:34:08 2018: C<Module> L<threads|threads>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 06:34:50 2018: C<Module> L<threads::shared|threads::shared>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.58>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:01:38 2018: C<Module> L<Class::Accessor|Class::Accessor>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.51>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:02:00 2018: C<Module> L<Data::UUID|Data::UUID>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.221>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:02:11 2018: C<Module> L<Crypt::CBC|Crypt::CBC>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:03:21 2018: C<Module> L<Test::RequiresInternet|Test::RequiresInternet>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:03:54 2018: C<Module> L<libwww::perl|libwww::perl>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.34>
+
+=item *
+
+C<EXE_FILES: bin/lwp-download bin/lwp-dump bin/lwp-mirror bin/lwp-request>
+
+=back
+
+=head2 Thu Jun  7 07:04:27 2018: C<Module> L<Digest::HMAC|Digest::HMAC>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:04:39 2018: C<Module> L<enum|enum>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:04:45 2018: C<Module> L<Win32::IPHelper|Win32::IPHelper>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:05:35 2018: C<Module> L<Net::DNS|Net::DNS>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:05:42 2018: C<Module> L<Net::Bonjour|Net::Bonjour>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.96>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:06:29 2018: C<Module> L<Socket|Socket>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.027>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:08:02 2018: C<Module> L<Net::SSLeay|Net::SSLeay>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.85>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:08:13 2018: C<Module> L<Mozilla::CA|Mozilla::CA>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 20180117>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:33:01 2018: C<Module> L<IO::Socket::SSL|IO::Socket::SSL>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.056>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun  7 07:33:20 2018: C<Module> L<LWP::Protocol::https|LWP::Protocol::https>
+
+=over 4
+
+=item *
+
+C<installed into: F:\Work\3DPrint\Slic3r\LOCAL-~1\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
