@@ -306,6 +306,7 @@ sub _init_menubar {
         wxTheApp->append_menu_item($helpMenu, "&Configuration $Slic3r::GUI::ConfigWizard::wizard…", "Run Configuration $Slic3r::GUI::ConfigWizard::wizard", sub {
             $self->config_wizard;
         });
+=pod
         $helpMenu->AppendSeparator();
         wxTheApp->append_menu_item($helpMenu, "Slic3r &Website", 'Open the Slic3r website in your browser', sub {
             Wx::LaunchDefaultBrowser('http://slic3r.org/');
@@ -317,6 +318,7 @@ sub _init_menubar {
         wxTheApp->append_menu_item($helpMenu, "Slic3r &Manual", 'Open the Slic3r manual in your browser', sub {
             Wx::LaunchDefaultBrowser('http://manual.slic3r.org/');
         });
+=cut
         $helpMenu->AppendSeparator();
         wxTheApp->append_menu_item($helpMenu, "&About Slic3r", 'Show about dialog', sub {
             wxTheApp->about;
