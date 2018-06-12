@@ -537,17 +537,17 @@ sub new {
         $buttons_sizer->Add($self->{btn_send_gcode}, 0, wxALIGN_RIGHT, 0);
         $buttons_sizer->Add($self->{btn_export_gcode}, 0, wxALIGN_RIGHT, 0);
         
-        $self->{right_sizer} = my $right_sizer = Wx::BoxSizer->new(wxVERTICAL);
-        $right_sizer->Add($presets, 0, wxEXPAND | wxTOP, 10) if defined $presets;
-        $right_sizer->Add($buttons_sizer, 0, wxEXPAND | wxBOTTOM, 5);
-        $right_sizer->Add($self->{settings_override_panel}, 1, wxEXPAND, 5);
-        $right_sizer->Add($object_info_sizer, 0, wxEXPAND, 0);
-        $right_sizer->Add($print_info_sizer, 0, wxEXPAND, 0);
-        $right_sizer->Hide($print_info_sizer);
+        $self->{right_sizer} = my $left_sizer = Wx::BoxSizer->new(wxVERTICAL);
+        $left_sizer->Add($presets, 0, wxEXPAND | wxTOP, 10) if defined $presets;
+        $left_sizer->Add($buttons_sizer, 0, wxEXPAND | wxBOTTOM, 5);
+        $left_sizer->Add($self->{settings_override_panel}, 1, wxEXPAND, 5);
+        $left_sizer->Add($object_info_sizer, 0, wxEXPAND, 0);
+        $left_sizer->Add($print_info_sizer, 0, wxEXPAND, 0);
+        $left_sizer->Hide($print_info_sizer);
         
         my $hsizer = Wx::BoxSizer->new(wxHORIZONTAL);
+        $hsizer->Add($left_sizer, 0, wxEXPAND | wxLEFT | wxRIGHT, 3);
         $hsizer->Add($self->{preview_notebook}, 1, wxEXPAND | wxTOP, 1);
-        $hsizer->Add($right_sizer, 0, wxEXPAND | wxLEFT | wxRIGHT, 3);
         
         my $sizer = Wx::BoxSizer->new(wxVERTICAL);
         $sizer->Add($self->{htoolbar}, 0, wxEXPAND, 0) if $self->{htoolbar};
